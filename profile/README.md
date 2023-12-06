@@ -6,9 +6,13 @@ Welcome to the Wry Sybils github page.
 With Wry Sybils, we want to solve the problem of users trying to remember their user credentials for different platforms and the problem of helplessness as regards how their data is being used.
 
 Product Features: 
+
 Users can use Wry Sybils to do the following: 
+
 - Generate their DID
+  
 - Manually create or edit certain data and host it on their personal DWN or a third party hosted DWN
+  
 - View all applications that have access to their data and the specific data they have access to
 - Allow or deny access of specific data to applications
 - Share data generated from one application to another application of similar domain
